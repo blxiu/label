@@ -8,3 +8,4 @@ Anti Debugging
 Startup persistence
 Fake error messages
 Custom icon
+.
