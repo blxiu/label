@@ -9,3 +9,4 @@ Startup persistence
 Fake error messages
 Custom icon
 .
+its marked as a virus be sure to disable your antivirus othervise it wont work
